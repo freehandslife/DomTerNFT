@@ -10,6 +10,8 @@ The objective of the [**Domestic Terrorist NFT**](https://github.com/freehandsli
 - [Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools)
 - [Metaplex](https://github.com/metaplex-foundation/metaplex)
 - [JSON](https://www.json.org/json-en.html)
+- [Node.js](https://nodejs.org/en/)
+
 
 #### Website
 
