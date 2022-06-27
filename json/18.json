@@ -1,0 +1,98 @@
+{
+  "name": "Domestic Terrorist FS #18",
+  "symbol": "DOMTER",
+  "description": "First Member Of The Super Villan Yatch Club - Founder Series",
+  "seller_fee_basis_points": 250,
+  "image": "https://raw.githubusercontent.com/freehandslife/DomTerNFT/main/images/18.png",
+  "external_url": "https://freehandslife.github.io/DomTerNFT/",
+  "edition": 18,
+  "attributes": [
+    {
+      "trait_type": "Wallpaper",
+      "value": "GreyPill"
+    },
+    {
+      "trait_type": "BGs",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Outline",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Face",
+      "value": "OriginalOpenMouthFangs"
+    },
+    {
+      "trait_type": "Lettering",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "FaceAccessories",
+      "value": "HitlerStache"
+    },
+    {
+      "trait_type": "Tattoos",
+      "value": "SiringeSwastikaGreen"
+    },
+    {
+      "trait_type": "HairAccessories",
+      "value": "devilHornsBlack"
+    },
+    {
+      "trait_type": "Stamp",
+      "value": "Nope"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "IAmScience"
+    },
+    {
+      "trait_type": "Floaters",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Number",
+      "value": "18"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/freehandslife/DomTerNFT/main/images/18.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BjXfAHAaPVjLcso8hWEz4HYAh6Ux9tReKnoe49MoX3RQ",
+        "share": 20
+      },
+      {
+        "address": "8LRMo7Xbfo6kZf1ZW8vR7QSZuqQE8j3c7YsFTwpw6zS3",
+        "share": 50
+      },
+      {
+        "address": "6Drjssd83m6jd7tZp4dWMa15mzKNMvYHN5f8c9YsRCUn",
+        "share": 30
+      }
+    ]
+  }
+}

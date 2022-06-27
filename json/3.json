@@ -1,0 +1,98 @@
+{
+  "name": "Domestic Terrorist FS #3",
+  "symbol": "DOMTER",
+  "description": "First Member Of The Super Villan Yatch Club - Founder Series",
+  "seller_fee_basis_points": 250,
+  "image": "https://raw.githubusercontent.com/freehandslife/DomTerNFT/main/images/3.png",
+  "external_url": "https://freehandslife.github.io/DomTerNFT/",
+  "edition": 3,
+  "attributes": [
+    {
+      "trait_type": "Wallpaper",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "BGs",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Outline",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Face",
+      "value": "OriginalClosedMouth"
+    },
+    {
+      "trait_type": "Lettering",
+      "value": "Original"
+    },
+    {
+      "trait_type": "FaceAccessories",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Tattoos",
+      "value": "TearDropsRed"
+    },
+    {
+      "trait_type": "HairAccessories",
+      "value": "demonHorns"
+    },
+    {
+      "trait_type": "Stamp",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "RedII"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "xCity"
+    },
+    {
+      "trait_type": "Floaters",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Number",
+      "value": "3"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/freehandslife/DomTerNFT/main/images/3.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BjXfAHAaPVjLcso8hWEz4HYAh6Ux9tReKnoe49MoX3RQ",
+        "share": 20
+      },
+      {
+        "address": "8LRMo7Xbfo6kZf1ZW8vR7QSZuqQE8j3c7YsFTwpw6zS3",
+        "share": 50
+      },
+      {
+        "address": "6Drjssd83m6jd7tZp4dWMa15mzKNMvYHN5f8c9YsRCUn",
+        "share": 30
+      }
+    ]
+  }
+}

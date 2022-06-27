@@ -1,0 +1,98 @@
+{
+  "name": "Domestic Terrorist FS #40",
+  "symbol": "DOMTER",
+  "description": "First Member Of The Super Villan Yatch Club - Founder Series",
+  "seller_fee_basis_points": 250,
+  "image": "https://raw.githubusercontent.com/freehandslife/DomTerNFT/main/images/40.png",
+  "external_url": "https://freehandslife.github.io/DomTerNFT/",
+  "edition": 40,
+  "attributes": [
+    {
+      "trait_type": "Wallpaper",
+      "value": "RedPill"
+    },
+    {
+      "trait_type": "BGs",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Outline",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Face",
+      "value": "OriginalOpenMouthFangs"
+    },
+    {
+      "trait_type": "Lettering",
+      "value": "Original"
+    },
+    {
+      "trait_type": "FaceAccessories",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Tattoos",
+      "value": "666"
+    },
+    {
+      "trait_type": "HairAccessories",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Stamp",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "JailBlackAndTeal"
+    },
+    {
+      "trait_type": "Floaters",
+      "value": "CovidSmokeGrey"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Overlay"
+    },
+    {
+      "trait_type": "Number",
+      "value": "40"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/freehandslife/DomTerNFT/main/images/40.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BjXfAHAaPVjLcso8hWEz4HYAh6Ux9tReKnoe49MoX3RQ",
+        "share": 20
+      },
+      {
+        "address": "8LRMo7Xbfo6kZf1ZW8vR7QSZuqQE8j3c7YsFTwpw6zS3",
+        "share": 50
+      },
+      {
+        "address": "6Drjssd83m6jd7tZp4dWMa15mzKNMvYHN5f8c9YsRCUn",
+        "share": 30
+      }
+    ]
+  }
+}
